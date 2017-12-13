@@ -30,7 +30,7 @@
         <STYLE NAME="BodyDefine" PARENT="Title Line" LINESPMode="1" FONT="Open Sans Regular" FONTSIZE="8">
             <Tabs Type="1" Pos="312" Fill=""/>
         </STYLE>
-        <STYLE NAME="Performer" ALIGN="1" FONT="ProseAntique Regular"/>
+        <STYLE NAME="Performer" ALIGN="1" FONT="AR PL UMing CN Light"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="AR PL UMing CN Light" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="2.89509741331934e-316" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
@@ -90,9 +90,9 @@
             <para/>
             <ITEXT CH="Widmung (Dedication) "/>
             <tab/>
-            <ITEXT CH="Schuman/Liszt"/>
+            <ITEXT CH="Robert Schumann/Franz Liszt"/>
             <para PARENT="Title Line"/>
-            <ITEXT CH="Robert Shumann, the mad genius of the Romantic Period, wrote this beautiful melody as his wedding dedication to his beloved Clara.  The emperor of the piano at that time, Franz Liszt, arranged the melody as a piano solo. Personally, everytime  I hear this played I feel deeply emotional and I dedicate today's performance with all my heart to my dearest Mother who first taught me the piano, and to all of you here today."/>
+            <ITEXT CH="Robert Shumann, the mad genius of the Romantic Period, wrote this beautiful melody as his wedding dedication to his beloved Clara.  The emperor of the piano at that time, Franz Liszt, arranged the melody as a piano solo. Personally, everytime  I hear this played I feel deeply emotional. I dedicate today's performance with all my heart to my dearest Mother who first taught me the piano, and to all of you here today."/>
             <para PARENT="BodyDefine"/>
             <para/>
             <ITEXT CH="Adios Nonino (Tango Rhapsody)"/>
@@ -101,9 +101,9 @@
             <para PARENT="Title Line"/>
             <ITEXT CH="By incorporating elements of jazz, classical and extended harmonies and compositional forms, Astor Piazzolla is best remembered for his "/>
             <ITEXT FONT="Open Sans Light Italic" CH="nuevo tango"/>
-            <ITEXT CH=".  This terribly sad melody was written in October of 1959 while in NY, in memory of his Father who had just recently passed away a few days earlier.  It has a mysterious air, a melody  that plays off a very strong rhythmic foundaton, then it changes key and finally that glorius ending with a sad resolution.  It has the feeling of family love at Christmas."/>
+            <ITEXT CH=".  This terribly sad melody was written in October of 1959 while in NY, in memory of his Father who had just recently passed away a few days earlier.  It has a mysterious air, a melody  that plays off a very strong rhythmic foundaton, then it changes key and finally that glorious ending with a sad resolution. My hope is that we can think about family love again at Christmas."/>
             <para PARENT="BodyDefine"/>
-            <para/>
+            <para PARENT="Title Line"/>
             <ITEXT CH="Love Affair  "/>
             <tab/>
             <ITEXT CH="Ennio Morricone  "/>
@@ -119,7 +119,7 @@
             <para PARENT="Title Line"/>
             <ITEXT CH="(arr by Earl Wild)"/>
             <para PARENT="Arranger"/>
-            <ITEXT CH="Embraceable You a beautiful George Gershwin composition, however Earl Wild, a great American pianist and contemporary composeri gives the piece a new dimension with his arrangement for the solo piano."/>
+            <ITEXT CH="Embraceable You a beautiful George Gershwin composition, however Earl Wild, a great American pianist and contemporary composer gives the piece a new dimension with his arrangement for the solo piano."/>
             <para PARENT="BodyDefine"/>
             <para/>
             <ITEXT CH="The Cristmas Song "/>
